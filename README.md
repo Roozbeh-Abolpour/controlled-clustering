@@ -92,7 +92,7 @@ This compares
 
 and plots the evolution of clustering performance.
 
-It must b highlighted that it is important to tune the DDMPC via its ARX oreders (mu,my), prediction horizon (N), iterations in between each sample-time (T), and input bound (dev). 
+It must be highlighted that it is important to tune the DDMPC via its ARX oreders (mu,my), prediction horizon (N), iterations in between each sample-time (T), and input bound (dev). 
 ---
 
 ## Research Context
