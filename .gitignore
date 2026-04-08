@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environments
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Mac / Linux
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# build
+build/
+dist/
+
+# logs
+*.log
